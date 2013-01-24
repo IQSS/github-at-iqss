@@ -35,6 +35,7 @@ title: The Tech Talk
 "Do not implement any product that does not provide an API." -- http://blog.websages.com/2010/12/10/jameswhite-manifesto/
 
 - http://developer.github.com
+- https://github.com/zeligdev/build_zelig/blob/master/pkg-build#L143
 
 ## GitHub for wikis
 
