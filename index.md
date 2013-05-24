@@ -18,6 +18,7 @@ title: The Tech Talk
 ## GitHub pull requests: the new "patches welcome"
 
 - https://github.com/openscholar/openscholar/pulls
+- https://travis-ci.org/openscholar/openscholar
 
 ## GitHub Pages: free website hosting on any domain
 
